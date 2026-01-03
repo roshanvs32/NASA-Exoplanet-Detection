@@ -43,3 +43,17 @@ Example Prediction
 -------------------
 Predicted Class: CONFIRMED  
 Prediction Probability: 0.89
+## Group Project
+This project was developed as a group.
+
+### Team Members
+- anandakrishnan vp (GitHub: anandakrishnan_vp)
+- Siddharth (GitHub: siddharths99)
+- Roshan vs (GitHub: roshanvs32)
+- Rithin K R(GitHub: rithinram2005-oss)
+- Rithin K R(GitHub: rithinram2005-oss)
+- Rithin K R(GitHub: rithinram2005-oss)
+- Rithin K R(GitHub: rithinram2005-oss)
+- 
+
+
